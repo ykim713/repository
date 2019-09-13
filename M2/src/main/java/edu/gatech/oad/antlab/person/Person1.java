@@ -40,6 +40,12 @@ public class Person1 {
 			return input;
 		}
 	}
+
+
+	// test method for git 
+	private testMethod(String input) {
+		return input;
+	}
 	
 	/**
 	 * Return a string rep of this object
