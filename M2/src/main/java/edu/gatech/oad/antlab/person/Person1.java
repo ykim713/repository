@@ -41,12 +41,6 @@ public class Person1 {
 		}
 	}
 
-
-	// test method for git 
-	private testMethod(String input) {
-		return input;
-	}
-	
 	/**
 	 * Return a string rep of this object
 	 * that varies with an input string
